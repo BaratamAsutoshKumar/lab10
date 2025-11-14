@@ -1,0 +1,4 @@
+Max value: 1.0, Min value: 0.0
+Quantised Model, Normalised Quantized Data Acc=97.22222222222221, saved size=3.91796875 KB,
+Unquantized model size:3.91796875KB ,saved Qunatized model size=2.3994140625KB
+======================================================================

@@ -1,0 +1,7 @@
+Max value: 1.0, Min value: 0.0
+Max value: 1.0, Min value: 0.0 [0.     0.     0.1875 0.875  0.0625]
+Max Q value: 7, Min Q value: 0 [0 0 1 6 0]
+====> Saved X_train 718.6591796875 KB, X_train_q 89.9716796875 KB
+Quantised Model, Normalised Quantized Data Acc=97.22222222222221, saved size=5.376953125 KB,
+Unquantized model size:5.376953125KB ,saved Qunatized model size=0.93359375KB
+======================================================================
