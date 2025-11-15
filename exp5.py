@@ -11,6 +11,7 @@ import torch
 import torch.nn as nn
 import pdb 
 
+#Miodel quantized to 4 bit, data qunatization
 #Load data 
 digits= load_digits() 
 X,y = digits.data ,digits.target 

@@ -11,6 +11,8 @@ import torch
 import torch.nn as nn
 import pdb 
 
+
+#NO model quantization, Noi data quantization
 #Load data 
 digits= load_digits() 
 X,y = digits.data ,digits.target 
